@@ -1,1 +1,13 @@
-
+com/example/android/testapp/BuildConfig.java
+ com.example.android.testapp.BuildConfig
+com/example/android/testapp/App.java
+ com.example.android.testapp.App
+com/example/android/testapp/SimpleDialog.java
+ com.example.android.testapp.SimpleDialog
+ com.example.android.testapp.SimpleDialog$1
+ com.example.android.testapp.SimpleDialog$1$1
+com/example/android/testapp/AnotherActivity.java
+ com.example.android.testapp.AnotherActivity
+com/example/android/testapp/MainActivity.java
+ com.example.android.testapp.MainActivity
+ com.example.android.testapp.MainActivity$1
